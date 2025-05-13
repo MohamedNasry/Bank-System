@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\OOP(Application)AndProject\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|A:\\OOP(Application)AndProject\\BankSystem\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70B36D3-2633-41E1-80DC-0260E025BC70}|BankSystem.vcxproj|solutionrelative:clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "clsInputValidate.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsInputValidate.h",
+              "RelativeToolTip": "clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T11:35:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyCalculatorScreen.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T18:51:19.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "clsFindCurrencyScreen.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T17:42:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T17:35:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrency.h",
+              "RelativeDocumentMoniker": "clsCurrency.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrency.h",
+              "RelativeToolTip": "clsCurrency.h",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAwAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T23:16:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCurrencyExchangeMainScreen.h",
+              "DocumentMoniker": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyExchangeMainScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyExchangeMainScreen.h",
+              "ToolTip": "A:\\OOP(Application)AndProject\\BankSystem\\clsCurrencyExchangeMainScreen.h",
+              "RelativeToolTip": "clsCurrencyExchangeMainScreen.h",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T20:40:24.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
